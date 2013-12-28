@@ -17,3 +17,7 @@
 * リストアイテム
 1. オーダー
 2. オーダー
+
+```ruby:qiita.rb
+puts 'The best way to log and share programmers knowledge.'
+```
